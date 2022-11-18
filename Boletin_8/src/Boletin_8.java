@@ -1,3 +1,5 @@
+package Boletin_8.src;
+
 public class Boletin_8 {
     public static void main(String[] args) {
         // TODO code application logic here

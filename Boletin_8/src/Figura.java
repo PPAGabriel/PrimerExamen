@@ -1,3 +1,5 @@
+package Boletin_8.src;
+
 import javax.swing.JOptionPane;
 
 public class Figura {
